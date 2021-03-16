@@ -7,6 +7,6 @@ import "animate.css/animate.min.css";
 import { tasks } from "./tasks.json";
 
 ReactDOM.render(
-  <App title="React Tasks" tasks={tasks} />,
+  <App title="React Tasks mfh" tasks={tasks} />,
   document.getElementById("root")
 );
